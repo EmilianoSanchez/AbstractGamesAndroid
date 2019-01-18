@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AbstractGamesAndroid</string>
+	<string name="buttonStartTicTacToe">Tic-Tac-Toe</string>
+</resources>
